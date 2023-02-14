@@ -11,8 +11,9 @@
         end
     end
 
-atomic=Book.new("harypoter")
-atomic.author ="poter"
-atomic.genre = "fiction"
-atomic.page_count = 300
-atomic.turn_page
+
+    atomic = Book.new("habit")
+    atomic.author ="james clear"
+    atomic.genre = "habit building"
+    atomic.page_count = 100
+    atomic.turn_page

@@ -17,11 +17,11 @@
 
         
             
-        nike  = Shoe.new("oxford")
-        nike.color = "brown"
-        nike.size = 42
-        nike.material = "leather"
-        nike.condition = "new"
+            nike  = Shoe.new("airforce")
+            nike.color = "white"
+            nike.size = 42
+            nike.material = "leather"
+            nike.condition = "old"
 
         binding.pry
             
